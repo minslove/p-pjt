@@ -9,9 +9,7 @@
       </ul>
     </div>
     <div class="right">
-      <h3>
-        <slot name="price"></slot>원
-      </h3>
+      <h3><slot name="price"></slot>원</h3>
       <ul class="items">
         <slot name="usage"></slot>
       </ul>
@@ -19,5 +17,4 @@
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
