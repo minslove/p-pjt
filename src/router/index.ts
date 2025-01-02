@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AboutView from '../views/AboutView.vue'
 import StatementView from '../views/StatementView.vue'
+import 'primeicons/primeicons.css'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
