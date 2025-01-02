@@ -1,1 +1,1 @@
-# p-pjt
+# primevue-pjt
